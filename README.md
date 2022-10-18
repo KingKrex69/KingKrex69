@@ -6,7 +6,7 @@
 </p>
 
 
-[![KingKrex#4235](https://discord.c99.nl/widget/theme-3/990353956658090020.png)]
+![KingKrex#4235](https://discord.c99.nl/widget/theme-3/990353956658090020.png)
 
 <h3 align="left">Contact:</h3>
 
