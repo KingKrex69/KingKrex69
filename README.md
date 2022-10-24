@@ -1,12 +1,16 @@
+### <p align="center">⚙️ &nbsp;Statistics</p>
 
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=KingKrex69&label=Profile%20views&color=5c12df&style=flat" alt="KingKrex69" />
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=5c12df&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/KingKrex69" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=5c12df&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/KingKrex69" alt="Profile Forks"></a>
-</p>
+<br>
+<p align="center">
+<a href="https://github.com/KingKrex69">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KingKrex69&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KingKrex69&layout=compact&langs_count=8&theme=react&locale=fr"/>
+</a>
 
 
-<h3 align="left">Contact:</h3>
+
+### <p align="center">⚙️ &nbsp;Contact</p>
+
 
 ![KingKrex#4235](https://discord.c99.nl/widget/theme-2/990353956658090020.png)
 
