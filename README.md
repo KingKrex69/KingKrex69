@@ -15,7 +15,3 @@
 ![KingKrex#4235](https://discord.c99.nl/widget/theme-2/990353956658090020.png)
 
 📫 My Discord Server: https://discord.gg/FvyEuNQ7qu
-
-<h3 aligh="left">Languages:</h3>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
