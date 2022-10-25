@@ -11,7 +11,16 @@
 
 ### <p align="center">⚙️ &nbsp;Contact</p>
 
+<br>
+<p align="center">
+  <img height="80em" src="https://discord.c99.nl/widget/theme-2/990353956658090020.png"/>
+</a>
 
-![KingKrex#4235](https://discord.c99.nl/widget/theme-2/990353956658090020.png)
+<br>
+<p align="center">
 
-📫 My Discord Server: https://discord.gg/FvyEuNQ7qu
+  </center>My Discord Server: https://discord.gg/FvyEuNQ7qu</center>
+  
+
+</a>
+
