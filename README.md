@@ -3,9 +3,9 @@
 <br>
 <p align="center">
 <a href="https://github.com/KingKrex69">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KingKrex69&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KingKrex69&theme=midnight-purple&hide_border=true&border_radius=0"/>
   
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KingKrex69&layout=compact&langs_count=8&theme=react&locale=fr"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingKrex69&theme=midnight-purple&hide_border=true&border_radius=0&layout=compact"/>
 </a>
 
 
